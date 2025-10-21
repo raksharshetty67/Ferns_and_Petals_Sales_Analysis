@@ -40,3 +40,8 @@ The project includes the creation of a dashboard and analysis to answer the foll
 ## Future Work
 - Integrate advanced analytics or machine learning to predict sales trends.
 - Expand dashboard with more granular metrics for deeper customer insights.
+
+## Dashboard
+![Dashboard1](https://github.com/raksharshetty67/Ferns_and_Petals_Sales_Analysis/blob/main/Dashboard1.png)
+
+![Dashboard1](https://github.com/raksharshetty67/Ferns_and_Petals_Sales_Analysis/blob/main/Dashboard2.png)
